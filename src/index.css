@@ -1,0 +1,13 @@
+.note {
+  background-color: rgba(134, 122, 122, 0.2);
+  border: 1px solid black;
+  padding: 3vmin;
+}
+
+.newnote {
+  background-color: rgba(134, 122, 122, 0.2);
+  border: 1px solid black;
+  padding: 3vmin;
+  width: 95vmin;
+  height: 70vmin;
+}
