@@ -15,7 +15,7 @@ import "bootstrap/dist/js/bootstrap.min.js";
 // My API_URL = http://localhost:3500/notes
 
 function App() {
-  const API_URL = "http://localhost:3500/notes"; //API URL for notes, of server
+  const API_URL = "https://db-4-6kxm.onrender.com/notes"; //API URL for notes, of server
   const navigate = useNavigate();
   const [notes, setNotes] = useState([]);
   const [transNote, setTransNote] = useState({
